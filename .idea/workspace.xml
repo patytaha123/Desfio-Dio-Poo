@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb8edd58-0f4c-4878-b32d-ed6d1aa8ec22" name="Changes" comment="first commit">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_01_2023_18_11_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_01_2023_18_11__Changes_.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="cb8edd58-0f4c-4878-b32d-ed6d1aa8ec22" name="Changes" comment="add.Readme" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674838003346</updated>
-      <workItem from="1674838004765" duration="12264000" />
+      <workItem from="1674838004765" duration="12582000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1674838165071</created>
@@ -145,7 +142,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674854636116</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add.Readme">
+      <created>1674855011787</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1674855011787</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add.Readme">
+      <created>1674855262063</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1674855262063</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,8 +174,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add.Readme" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="add.Readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="add.Readme" />
   </component>
 </project>
