@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb8edd58-0f4c-4878-b32d-ed6d1aa8ec22" name="Changes" comment="add.Readme" />
+    <list default="true" id="cb8edd58-0f4c-4878-b32d-ed6d1aa8ec22" name="Changes" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio-dio-poo-main/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio-dio-poo-main/bin/br/com/dio/desafio/dominio/Bootcamp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio-dio-poo-main/bin/br/com/dio/desafio/dominio/Conteudo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio-dio-poo-main/bin/br/com/dio/desafio/dominio/Curso.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio-dio-poo-main/bin/br/com/dio/desafio/dominio/Dev.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio-dio-poo-main/bin/br/com/dio/desafio/dominio/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio-dio-poo-main/bin/br/com/dio/desafio/dominio/Mentoria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio-dio-poo-main/src/br/com/dio/desafio/dominio/Bootcamp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/br/com/dio/desafio/dominio/Bootcamp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio-dio-poo-main/src/br/com/dio/desafio/dominio/Conteudo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/br/com/dio/desafio/dominio/Conteudo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio-dio-poo-main/src/br/com/dio/desafio/dominio/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/br/com/dio/desafio/dominio/Curso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio-dio-poo-main/src/br/com/dio/desafio/dominio/Dev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/br/com/dio/desafio/dominio/Dev.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio-dio-poo-main/src/br/com/dio/desafio/dominio/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio-dio-poo-main/src/br/com/dio/desafio/dominio/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/br/com/dio/desafio/dominio/Mentoria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio-poo-dio-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio-poo-dio-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio-poo-dio-master/desafio-poo-dio.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +45,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/fadel/Downloads/git/Desafio-Poo-DIO",
+    "last_opened_file_path": "C:/Users/fadel/Downloads/git/Desafio-Poo-DIO/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -43,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674838003346</updated>
-      <workItem from="1674838004765" duration="1959000" />
+      <workItem from="1674838004765" duration="2833000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1674838165071</created>
@@ -59,15 +77,29 @@
       <option name="project" value="LOCAL" />
       <updated>1674838740966</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add.R">
+      <created>1674841639155</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674841639155</updated>
+    </task>
+    <task id="LOCAL-00004" summary="first commit">
+      <created>1674841682497</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674841682497</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="first commit" />
     <MESSAGE value="add.Readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="add.Readme" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
